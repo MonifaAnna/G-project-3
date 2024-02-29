@@ -1,0 +1,148 @@
+/* 1st section */
+/* dasktop */
+ @media only screen and (min-width:801px){ 
+.card-img{
+    height:100%;
+    width: 100%;
+    filter: blur(2px);
+}
+.bg-wal{
+    height:900px;
+}
+/* navbar */
+
+.navbar{
+    background-color: bisque;
+    height: 100px;
+}
+.colorr{
+    width: 100%;
+}
+.navbar-brand{
+    margin-left: 90px;
+   
+}
+.link1{
+    margin-left: 17px;
+}
+.navbar-nav{
+font-weight: 700;
+padding: 10px;
+margin-left: 300px;
+font-size: 25px;
+}
+.btn-nav{
+    width: 170px;
+    height: 60px;
+    font-weight: 700;
+    font-size: 23px;
+    background-color: rgb(71, 82, 71);
+    border-radius: 10px;
+    color: white;
+   margin-left: 430px;
+}
+.logo{
+    width: 250px;
+    height: 130px;
+}
+}
+
+/* moblie */
+@media only screen and (max-width:600px){
+    .colorr{
+        width: 100%;
+    }
+    .logo{
+        width: 150px;
+        height: 80px;
+    }
+    .navbar-brand{
+        font-size: 40px;
+        color: rgb(71, 82, 71);
+        font-weight: 700;
+    }
+  
+  .navbar{
+    background-color: bisque;
+  
+  }
+    .navbar-nav{
+    font-weight: 700;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    }
+    .btn-nav{
+        width: 130px;
+        height: 40px;
+        font-weight: 700;
+        font-size: 20px;
+        background-color: rgb(71, 82, 71);
+        border-radius: 10px;
+        color: white;
+      margin-left: 190px;
+      margin-bottom: 20px;
+    }
+}
+
+/* Middle text */
+/* responsive */
+/* dasktop */
+@media only screen and (min-width:801px){ 
+.middle-text{
+margin-left: 140px;
+margin-top: 160px;
+ 
+}
+.sizee{
+    font-size: 70px;
+    font-weight: 700;
+}
+.btn-middle{
+    width: 150px;
+    height: 50px;
+    font-weight: 700;
+    font-size: 20px;
+    background-color:rgb(71, 82, 71);
+    border-radius: 10px;
+    color: white;
+    margin-left: 20px;
+    
+}
+}
+/* moblie */
+@media only screen and (max-width:600px){
+    .middle-text{
+        margin-left:130px;
+        margin-top: 40px;
+         
+        }
+        .sizee{
+            font-size: 30px;
+            font-weight: 700;
+            color:rgb(71, 82, 71);
+        }
+        .btn-middle{
+            width: 120px;
+            height: 40px;
+            font-weight: 700;
+            font-size: 13px;
+            background-color:rgb(71, 82, 71);
+            border-radius: 10px;
+            color: white;
+            margin-left: 10px;
+            
+        }
+}
+/* slider-sec */
+
+.slider{
+    height: 100px;
+    background-color: rgb(71, 82, 71);
+}
+.slider-text {
+    text-align: center;
+    font-size: 26px;
+    color: white;
+    margin-top: 30px;
+}
