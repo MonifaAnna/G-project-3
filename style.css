@@ -225,7 +225,7 @@ span:hover{
     margin-top: 30px;
 }
 /* eat sec */
-.d-flexx{
+.d-flexxx{
 
     display: flex;
     padding: 40px;
@@ -235,14 +235,14 @@ width: 100%;
 height: 100%;
 }
 .eat-text{
-    text-align: center;
+    text-align:start;
     width: 900px;
     
-    padding: 40px;
+    padding: 80px;
 }
 .eat-img{
     
-    width:900px ;
+    width:860px ;
     height: 770px;
 }
 .eat-size{
@@ -255,4 +255,107 @@ height: 100%;
 }
 .eat-size3{
     font-size: 27px;
+}
+.eat-btn{
+    width: 200px;
+    height: 60px;
+    font-weight: 700;
+    font-size: 23px;
+    background-color: white;
+    border-radius: 10px;
+    color:black;
+}
+.eat-btn:hover{
+    background-color:rgb(71, 82, 71);
+    color:white;
+}
+/* drink-sec */
+.d-flexx{
+ 
+    display: flex;
+    padding: 40px;
+}
+.breakfast{
+width: 100%;
+height: 100%;
+}
+.drink-text{
+    text-align:start;
+    width: 900px;
+    
+    padding: 80px;
+}
+.drink-img{
+    
+    width:860px ;
+    height: 770px;
+}
+.drink-size{
+    font-size: 70px;
+    font-weight: 800;
+    font-family:serif;
+}
+.drink-size2{
+    font-size: 40px;
+}
+.drink-size3{
+    font-size: 27px;
+}
+.drink-btn{
+    width: 200px;
+    height: 60px;
+    font-weight: 700;
+    font-size: 23px;
+    background-color: white;
+    border-radius: 10px;
+    color:black;
+}
+.drink-btn:hover{
+    background-color:rgb(71, 82, 71);
+    color:white;
+}
+/* enjoy-sec */
+.d-flexx{
+    
+    display: flex;
+    padding: 40px;
+}
+.breakfast{
+width: 100%;
+height: 100%;
+}
+.enjoy-text{
+    text-align:start;
+    width: 900px;
+    
+    padding: 80px;
+}
+.enjoy-img{
+    
+    width:860px ;
+    height: 770px;
+}
+.enjoy-size{
+    font-size: 70px;
+    font-weight: 800;
+    font-family:serif;
+}
+.enjoy-size2{
+    font-size: 40px;
+}
+.enjoy-size3{
+    font-size: 27px;
+}
+.enjoy-btn{
+    width: 200px;
+    height: 60px;
+    font-weight: 700;
+    font-size: 23px;
+    background-color: white;
+    border-radius: 10px;
+    color:black;
+}
+.enjoy-btn:hover{
+    background-color:rgb(71, 82, 71);
+    color:white;
 }
