@@ -1,10 +1,10 @@
-.main{
-    font-family: serif;
+section{
+    font-family:serif;
     width: 1510px;
 }
 /* Navbar */
 .navbar{
-    background-color: rgb(8,48,4);
+    background-color:rgb(8,48,4);
     height: 80px;
     width: 1510px;
 }
@@ -42,6 +42,7 @@ font-size: 20px;
     width: 200px;
     height: 100px;
 }
+/* our menu */
 /* Us sec */
 .us-sec{
     margin-top: 80px;
@@ -58,98 +59,90 @@ font-size: 20px;
 .us-text-2{
     font-size: 20px;
 }
-/*  The Best bite  */
-.bite-div1{
-    height: 600px;
-    width:750px;
+/* menu */
+.menu-pic{
+height: 200px;
+width: 200px;
 }
-.bite-pic{
+.m-pic1{
     width: 100%;
     height: 100%;
+    margin-left:30px;
 }
-.bite-div2{
-    height: 600px;
-    width: 700px;
+.main-menu{
+    text-align:center;
     
+}
+.main2{
     text-align: start;
-    padding: 100px;
-    margin-left: 30px;
+    padding-left:200px;
 }
-.d-flexs{
-display: flex;
-margin-left: 20px;
- 
-}
-.bite-btn{
-    width: 180px;
-    height: 50px;
-    font-weight: 700;
-    font-size: 20px;
-    background-color:rgb(8,48,4);
-    border-radius: 10px;
-    color:white;
-    margin-left:0px;
-    
-}
-.bite-p{
-    font-size: 50px;
-    font-weight: 700;
-}
-.bite-p2{
-    font-size: 20px;
-    font-weight: 300;
-}
-/* real food */
-.food{
-    background-color: rgb(8,48,4);
-    text-align: center;
+.menuh{
     font-size: 35px;
-    height: 120px;
-    padding-top: 30px;
-    color: white;
+    padding: 50px;
 }
-/* heart */
-.heart-div1{
-    height: 600px;
-    width:650px;
-    margin-left: 100px;
+.menu-text1{
+   font-size: 27px;
+   margin-bottom: 60px;
 }
-.heart-pic{
-    width: 100%;
-    height: 100%;
-}
-.heart-div2{
-    height: 600px;
-    width: 700px;
-    
-    text-align: start;
-    padding: 100px;
-    margin-left:20px;
-}
-.d-flexs{
-display: flex;
-margin-left: 20px;
- 
-}
-.heart-btn{
-    width: 180px;
-    height: 50px;
-    font-weight: 700;
-    font-size: 20px;
-    background-color:rgb(8,48,4);
-    border-radius: 10px;
+.menu-text2{
+    font-size: 27px;
+    margin-top: 50px;
+    margin-bottom: 60px;
+ }
+ .menudiv2{
+    margin-left: 40px;
+ }
+ .menudiv3{
+    margin-left: 30px;
+ }
+ .menu-text3{
+    font-size:25px;
     color:white;
-    margin-left:0px;
-    
-}
-.heart-p{
-    font-size: 50px;
-    font-weight: 700;
-}
-.heart-p2{
-    font-size: 20px;
-    font-weight: 300;
-}
+ }
+ .card{
+    height: 450px;
+    width: 350px;
+    padding-left: 50px;
+    padding-top: 30px;
+    background-color: rgb(73, 68, 78);
+    color:white;
+    box-shadow: 10px 10px rgb(62, 61, 61);
+    border-radius: 10px;
+ }
+ .card1{
+    height: 450px;
+    width: 350px;
+    padding-left: 40px;
+    padding-top: 30px;
+    background-color: rgb(73, 68, 78);
+    color:white;
+    box-shadow: 10px 10px rgb(62, 61, 61);
+    margin-bottom: 30px;
+    border-radius: 10px;
+ }
+ .card2{
+    height: 450px;
+    width: 350px;
+    padding-left: 40px;
+    padding-top: 30px;
+    background-color: rgb(73, 68, 78);
+    color:white;
+    box-shadow: 10px 10px rgb(62, 61, 61);
+    margin-bottom: 30px;
+    border-radius: 10px;
+ }
+ .card3{
+    height: 450px;
+    width: 350px;
+    padding-left: 40px;
+    padding-top: 30px;
+    background-color: rgb(73, 68, 78);
+    color:white;
+    box-shadow: 10px 10px rgb(62, 61, 61);
+    margin-bottom: 30px;
+    border-radius: 10px;
+ }
  /* footer */
  .foot{
     height: 450px;

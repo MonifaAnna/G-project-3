@@ -1,12 +1,13 @@
+
 .main{
     font-family: serif;
     width: 1510px;
 }
+
 /* Navbar */
 .navbar{
-    background-color: rgb(8,48,4);
+    background-color:rgb(8,48,4);
     height: 80px;
-    width: 1510px;
 }
 .colorr{
     width: 100%;
@@ -21,6 +22,10 @@
 }
 .link1:hover{
     color:orange;
+}
+.logo{
+    width: 200px;
+    height: 100px;
 }
 .navbar-nav{
 font-weight: 700;
@@ -38,11 +43,7 @@ font-size: 20px;
     color:rgb(8,48,4);
    margin-left: 300px;
 }
-.logo{
-    width: 200px;
-    height: 100px;
-}
-/* Us sec */
+/* contact  */
 .us-sec{
     margin-top: 80px;
     height: 370px;
@@ -58,98 +59,51 @@ font-size: 20px;
 .us-text-2{
     font-size: 20px;
 }
-/*  The Best bite  */
-.bite-div1{
-    height: 600px;
-    width:750px;
+.contact-sec{
+
+    padding: 160px;
 }
-.bite-pic{
-    width: 100%;
-    height: 100%;
+.inpu1{
+    height: 45px;
+    width: 370px;
+    border-radius: 4px;
 }
-.bite-div2{
-    height: 600px;
-    width: 700px;
-    
-    text-align: start;
-    padding: 100px;
-    margin-left: 30px;
+.inpu2{
+    height: 150px;
+    width: 370px;
+    border-radius: 4px;
 }
-.d-flexs{
-display: flex;
-margin-left: 20px;
- 
-}
-.bite-btn{
-    width: 180px;
-    height: 50px;
-    font-weight: 700;
+.btnn{
+    width: 370px;
+    height: 45px;
+    border-radius: 4px;
+    margin-top: 20px;
     font-size: 20px;
-    background-color:rgb(8,48,4);
-    border-radius: 10px;
-    color:white;
-    margin-left:0px;
-    
-}
-.bite-p{
-    font-size: 50px;
-    font-weight: 700;
-}
-.bite-p2{
-    font-size: 20px;
-    font-weight: 300;
-}
-/* real food */
-.food{
     background-color: rgb(8,48,4);
-    text-align: center;
-    font-size: 35px;
-    height: 120px;
-    padding-top: 30px;
     color: white;
 }
-/* heart */
-.heart-div1{
-    height: 600px;
-    width:650px;
-    margin-left: 100px;
+.para{
+    font-size: 20px;
+    font-weight: 400;
+   
 }
-.heart-pic{
-    width: 100%;
-    height: 100%;
-}
-.heart-div2{
-    height: 600px;
+.contact-div{
+    margin-left: 200px;
     width: 700px;
-    
-    text-align: start;
-    padding: 100px;
-    margin-left:20px;
+    padding-left: 160px;
 }
-.d-flexs{
-display: flex;
-margin-left: 20px;
- 
-}
-.heart-btn{
-    width: 180px;
+.icon{
+    width: 50px;
     height: 50px;
-    font-weight: 700;
-    font-size: 20px;
-    background-color:rgb(8,48,4);
-    border-radius: 10px;
-    color:white;
-    margin-left:0px;
-    
+    font-size: 40px;
 }
-.heart-p{
-    font-size: 50px;
-    font-weight: 700;
+.contact-margin{
+    margin-left: 60px;
 }
-.heart-p2{
-    font-size: 20px;
-    font-weight: 300;
+.topp{
+    margin-top: 80px;
 }
+
  /* footer */
  .foot{
     height: 450px;
@@ -196,4 +150,7 @@ margin-left: 20px;
    .logo{
     width: 200px;
     height: 100px;
+}
+.location{
+    width: 1300px;
 }

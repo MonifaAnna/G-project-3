@@ -11,13 +11,14 @@
     filter: blur(2px);
 }
 .bg-wal{
-    height:900px;
+    height:700px;
 }
 /* navbar */
 
 .navbar{
-    background-color: rgb(248, 232, 216);
+    background-color: rgb(8,48,4);
     height: 80px;
+    
 }
 .colorr{
     width: 100%;
@@ -28,10 +29,10 @@
 }
 .link1{
     margin-left: 17px;
-    color:black;
+    color:white;
 }
 .link2{
-    color:rgb(71, 82, 71);
+    color:white;
 }
 .navbar-nav{
 font-weight: 700;
@@ -44,9 +45,9 @@ font-size: 20px;
     height: 50px;
     font-weight: 700;
     font-size: 23px;
-    background-color: rgb(71, 82, 71);
+    background-color: white;
     border-radius: 10px;
-    color: white;
+    color:rgb(8,48,4);
    margin-left: 300px;
 }
 .logo{
@@ -65,7 +66,7 @@ font-size: 20px;
     }
     .navbar-brand{
         font-size: 50px;
-        color: rgb(71, 82, 71);
+        color: rgb(8,48,4);
         font-weight: 700;
     }
   
@@ -84,7 +85,7 @@ font-size: 20px;
         height: 40px;
         font-weight: 700;
         font-size: 20px;
-        background-color: rgb(71, 82, 71);
+        background-color: rgb(8,48,4);
         border-radius: 10px;
         color: white;
       margin-left: 190px;
@@ -107,7 +108,7 @@ font-size: 20px;
     }
     .navbar-brand{
         font-size: 40px;
-        color: rgb(71, 82, 71);
+        color: rgb(8,48,4);
         font-weight: 700;
     }
   
@@ -126,7 +127,7 @@ font-size: 20px;
         height: 40px;
         font-weight: 700;
         font-size: 20px;
-        background-color: rgb(71, 82, 71);
+        background-color: rgb(8,48,4);
         border-radius: 10px;
         color: white;
       margin-left: 190px;
@@ -153,7 +154,7 @@ margin-top: 230px;
     height: 50px;
     font-weight: 700;
     font-size: 20px;
-    background-color:rgb(71, 82, 71);
+    background-color:rgb(8,48,4);
     border-radius: 10px;
     color:white;
     margin-left: 20px;
@@ -177,7 +178,7 @@ margin-top: 230px;
             height: 40px;
             font-weight: 700;
             font-size: 13px;
-            background-color:rgb(71, 82, 71);
+            background-color:rgb(8,48,4);
             border-radius: 10px;
             color: white;
             margin-left: 10px;
@@ -201,7 +202,7 @@ margin-top: 230px;
             height: 40px;
             font-weight: 700;
             font-size: 13px;
-            background-color:rgb(71, 82, 71);
+            background-color:rgb(8,48,4);
             border-radius: 10px;
             color: white;
             margin-left: 10px;
@@ -209,8 +210,8 @@ margin-top: 230px;
         }
 }
 /* hover btn */
-/* .link1:hover{
-    color:rgb(71, 82, 71);
+ .link1:hover{
+    color:orange;
 }
 span:hover{
     color: black;  
@@ -223,7 +224,7 @@ span:hover{
 
 .slider{
     height: 100px;
-    background-color: rgb(71, 82, 71);
+    background-color: rgb(8,48,4);
 }
 .slider-text {
     text-align: center;
@@ -276,7 +277,7 @@ height: 100%;
     color:black;
 }
 .eat-btn:hover{
-    background-color:rgb(71, 82, 71);
+    background-color:rgb(8,48,4);
     color:white;
 }}
 /* tap */
@@ -320,7 +321,7 @@ height: 100%;
         color:black;
     }
     .eat-btn:hover{
-        background-color:rgb(71, 82, 71);
+        background-color:rgb(8,48,4);
         color:white;
     } 
 }
@@ -365,7 +366,7 @@ height: 100%;
         color:black;
     }
     .eat-btn:hover{
-        background-color:rgb(71, 82, 71);
+        background-color:rgb(8,48,4);
         color:white;
     }
 }
@@ -414,7 +415,7 @@ height: 100%;
     color:black;
 }
 .drink-btn:hover{
-    background-color:rgb(71, 82, 71);
+    background-color:rgb(8,48,4);
     color:white;
 }}
 /* tap */
@@ -458,7 +459,7 @@ height: 100%;
         color:black;
     }
     .drink-btn:hover{
-        background-color:rgb(71, 82, 71);
+        background-color:rgb(8,48,4);
         color:white;
     }
 }
@@ -502,7 +503,7 @@ height: 100%;
         color:black;
     }
     .drink-btn:hover{
-        background-color:rgb(71, 82, 71);
+        background-color:rgb(8,48,4);
         color:white;
     }
 }
@@ -551,7 +552,7 @@ height: 100%;
     color:black;
 }
 .enjoy-btn:hover{
-    background-color:rgb(71, 82, 71);
+    background-color:rgb(8,48,4);
     color:white;
 }}
 /* tab*/
@@ -597,7 +598,7 @@ height: 100%;
         color:black;
     }
     .enjoy-btn:hover{
-        background-color:rgb(71, 82, 71);
+        background-color:rgb(8,48,4);
         color:white;
     }}
     /* mobile */
@@ -641,7 +642,7 @@ height: 100%;
         color:black;
     }
     .enjoy-btn:hover{
-        background-color:rgb(71, 82, 71);
+        background-color:rgb(8,48,4);
         color:white;
     }}
     /* drop-sec */
@@ -649,9 +650,10 @@ height: 100%;
     @media only screen and (min-width:801px){
     .drop{
         height: 400px;
-        background-color: rgb(248, 232, 216);
+        background-color: rgb(8,48,4);
         text-align: center;
         padding-top: 10px;
+        color:white;
     }
  
     .drop-flexx{
@@ -721,10 +723,13 @@ height: 100%;
     width: 300px;
     height: 350px
    }
+   .imgs:hover{
+    transform: scale(1.5);
+   }
    /* footer */
    .foot{
     height: 450px;
-    background-color:rgb(71, 82, 71);
+    background-color:rgb(8,48,4);
     display: flex;
     padding-left: 100px;
     padding-top: 100px;
